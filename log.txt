@@ -1,0 +1,47 @@
+commit 5355eaf8fd0f760c1f3246aeb7dda691a2109e74
+Author: crisantocc <crisanto.cervantes.cazares@gmail.com>
+Date:   Mon Nov 14 16:37:53 2022 -0600
+
+    Cambio a develop
+
+commit 4ac7847a36510fdbd1085d278666683754a915ba
+Author: crisantocc <crisanto.cervantes.cazares@gmail.com>
+Date:   Mon Nov 14 16:37:19 2022 -0600
+
+    Cambio a develop
+
+commit c5b5e5b5851c691eff9e55eec96279e2b34efc95
+Author: crisantocc <crisanto.cervantes.cazares@gmail.com>
+Date:   Mon Nov 14 16:36:28 2022 -0600
+
+    Cambio de vida
+
+commit d552a23ac348ee8df35a9134a171f8b5492b951e
+Author: crisantocc <crisanto.cervantes.cazares@gmail.com>
+Date:   Mon Nov 14 16:34:06 2022 -0600
+
+    Arranco el priyecto con css y html
+
+commit 600e2953377239cdfa345f370cabf40c9e265fd1
+Author: crisantocc <crisanto.cervantes.cazares@gmail.com>
+Date:   Fri Nov 11 14:11:00 2022 -0600
+
+    Como me llamo
+
+commit efad60673582db4c4c47f6478a22c87a5c82cbf7
+Author: crisantocc <crisanto.cervantes.cazares@gmail.com>
+Date:   Fri Nov 11 14:09:45 2022 -0600
+
+    Agregando mi comentario de mi estatura
+
+commit 704b65e02cdc37b6b336041aa6d74ed0f99e7930
+Author: crisantocc <crisanto.cervantes.cazares@gmail.com>
+Date:   Fri Nov 11 13:58:55 2022 -0600
+
+    Cambio para segundo commit ya subido
+
+commit b46bf6f4c6922419b61277a356208c4605f08963
+Author: Plata De Halcón <platadehalcon@MacBook-Air-de-Plata.local>
+Date:   Fri Nov 11 13:51:41 2022 -0600
+
+    Este es el primer commit de prueba para este archivo
